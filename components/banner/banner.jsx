@@ -38,7 +38,11 @@ const Banner = () => {
         </div>
 
         <div className=" bg-pink rounded-full h-80 w-80 flex justify-center mt-36">
-          <img src={"/graduate.png"} className="w-80 h-4/5 absolute -mt-48 " />
+          <img
+            src={"/graduate.png"}
+            className="w-80 h-4/5 absolute -mt-48 "
+            alt="Art"
+          />
         </div>
       </section>
     </div>
