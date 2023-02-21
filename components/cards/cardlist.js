@@ -1,30 +1,30 @@
 export let cardlist = [
     {
-        img:'ai.jpg',
+        img:'computer.jpg',
         tags:['html','css','javascript'],
         title:'Bachelors of Business Admisnitration',
         years:4
     },
     {
-        img:'genomics.jpg',
+        img:'commerce.jpg',
         tags:['html','css','javascript'],
         title:'Bachelors Business and Commerce',
         years:2
     },
     {
-        img:'cloud.jpg',
+        img:'database.jpg',
         tags:['html','css','javascript'],
         title:'Database Managemnet System',
         years:2
     },
     {
-        img:'web3.jpg',
+        img:'computer.jpg',
         tags:['html','css','javascript'],
         title:'Bachelors of science in Computer Science',
         years:4
     },
     {
-        img:'cloud.jpg',
+        img:'webdesign.jpg',
         tags:['html','css','javascript'],
         title:'Web Design and Development',
         years:2
