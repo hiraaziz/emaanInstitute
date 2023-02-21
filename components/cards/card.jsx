@@ -19,7 +19,7 @@ const Card = () => {
               <div class="mb-2">
                 {card.tags.map((tag, ind) => (
                   <span
-                    kry={ind}
+                    key={ind}
                     class="inline-block bg-lightpink rounded-full px-3 py-1 text-sm font-semibold text-white mr-2"
                   >
                     {tag}
