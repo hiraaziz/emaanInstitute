@@ -14,7 +14,7 @@ const Card = () => {
             key={index}
             class="max-w-xs rounded overflow-hidden shadow-lg border-t-4 border-pink"
           >
-            <img class="w-full" src="/ai.jpg" alt="Card image" />
+            <img class="w-full h-56" src={card.img} alt="Card image" />
             <div class="px-6 py-4">
               <div class="mb-2">
                 {card.tags.map((tag, ind) => (
