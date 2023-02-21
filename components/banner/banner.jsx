@@ -5,7 +5,7 @@ import styles from "./styles.module.css";
 const Banner = () => {
   return (
     <div className={styles.banner}>
-      <section className="flex flex-row md:flex-col w-full h-full justify-evenly items-center">
+      <section className="flex w-full h-full justify-evenly items-center">
         <div>
           <h1 className="text-6xl font-black animate-pulse">
             EMAAN <span className="text-pink">Institute</span>{" "}
