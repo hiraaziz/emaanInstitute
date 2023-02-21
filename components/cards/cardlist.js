@@ -1,12 +1,12 @@
 export let cardlist = [
     {
-        img:'computer.jpg',
+        img:'business.jpg',
         tags:['html','css','javascript'],
         title:'Bachelors of Business Admisnitration',
         years:4
     },
     {
-        img:'commerce.jpg',
+        img:'comerce.jpg',
         tags:['html','css','javascript'],
         title:'Bachelors Business and Commerce',
         years:2
@@ -30,7 +30,7 @@ export let cardlist = [
         years:2
     },
     {
-        img:'ai.jpg',
+        img:'network.jpg',
         tags:['html','css','javascript'],
         title:' Bachelors Computer Networking',
         years:2
